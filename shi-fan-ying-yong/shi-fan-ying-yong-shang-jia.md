@@ -10,7 +10,7 @@
 
 3.填寫示範應用相關資料
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 4.建立完畢等待交通部審核
 

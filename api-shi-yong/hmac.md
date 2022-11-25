@@ -110,16 +110,4 @@ Content-Encoding: br,gzip
 
 由於TLS 1.0與TLS 1.1已被證實具有安全風險，為確保網路連線機制的安全性，TDX API與網站僅支援TLS 1.2(含)以上之傳輸加密協定。TLS與Ciphers支援狀況可參考SSL Labs工具檢測後的結果:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
-* HTTP Status Code 416：
-  * 超過最大平行連接數（限制每個IP只能發起60個連接）
-* HTTP Status Code 423：
-  * 超過單位時間（50 request/秒）能平行的請求數
-*
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
